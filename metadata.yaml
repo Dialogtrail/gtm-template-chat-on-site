@@ -15,5 +15,5 @@
 homepage: "https://www.dialogtrail.com"
 documentation: "https://docs.dialogtrail.com"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 382caf7d6d66d22256547902142cf63f5aa03152
     changeNotes: Initial Version
